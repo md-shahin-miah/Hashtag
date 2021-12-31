@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">HashTags</string>
+    <string name="dont_fb">You don\'t have facebook app</string>
+    <string name="dont_wp">You don\'t have whatsapp app</string>
+    <string name="dont_inst">You don\'t have Instagram app</string>
+    <string name="dont_twitter">You don\'t have twitter app</string>
+
+
+    <string name="rateapp_link">https://play.google.com/store/apps/details?id=</string>
+    <string name="moreapps_link">https://play.google.com/store/apps/developer?id=Ok+Codex</string>
+    <string name="feedback_email_link">teamokcodex@gmail.com</string>
+    <string name="send_mail">Send Email</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="label_privacy">Privacy Policy</string>
+    <string name="label_fb_group">FB Group</string>
+
+    <string name="checkmark_a">✓</string>
+    <string name="crossmark">✗</string>
+    <string name="rate_app">Rate App</string>
+    <string name="nav_label_feedback">Feedback</string>
+    <string name="nav_label_logout">Logout</string>
+    <string name="faq">FAQ</string>
+    <string name="invite_friends">Invite Friends</string>
+    <string name="more_apps">More Apps</string>
+
+    <string name="search_here">Search here</string>
+    <string name="todo">TODO</string>
+
+</resources>
