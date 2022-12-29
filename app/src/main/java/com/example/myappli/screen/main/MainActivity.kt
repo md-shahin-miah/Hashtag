@@ -42,6 +42,7 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
         navigationView = findViewById(R.id.nav_view)
         navigationView.setNavigationItemSelectedListener(this)
         navigationView.itemIconTintList = null
+        //
 
         val toggle = ActionBarDrawerToggle(
             this,
